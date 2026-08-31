@@ -2,6 +2,11 @@
 
 Policy enforcement for Model Context Protocol tool calls.
 
+**This is a focused extract** of `mcp-security-proxy/` inside
+[marifort/soc-governance](https://github.com/marifort/soc-governance). Prefer that repository if you
+want the full SOC stack (LangGraph human-approval gate, forensics, OpenCTI). Clone this repo if you
+only need a reverse proxy in front of **any** MCP server, with no Wazuh dependency.
+
 A reverse proxy that sits in front of any MCP server and decides — per call — whether a tool
 invocation is allowed, challenged, or denied, then records the decision.
 
