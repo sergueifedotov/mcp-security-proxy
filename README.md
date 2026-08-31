@@ -10,4 +10,4 @@ gateway.
 
 Do not open issues or PRs here. Clone `marifort/soc-governance` instead.
 
-MIT — Copyright (c) 2026 Marifort Systems Inc. See [LICENSE](LICENSE).
+MIT — Copyright (c) 2026 Serguei Fedotov. See [LICENSE](LICENSE).
